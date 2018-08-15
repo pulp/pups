@@ -12,5 +12,8 @@ Number | Title
 2 | [Google Style Docstrings](https://github.com/pulp/pups/blob/master/pup-0002.md)
 3 | [Git Workflow PUP](https://github.com/pulp/pups/blob/master/pup-0003.md)
 4 | [Code of Conduct](https://github.com/pulp/pups/blob/master/pup-0004.md)
+5 | [Common Cure Rights Commitment](https://github.com/pulp/pups/blob/master/pup-0005.md)
+6 | [Commit bit assignment](https://github.com/pulp/pups/blob/master/pup-0006.md)
+7 | [Two-factor authentication](https://github.com/pulp/pups/blob/master/pup-0007.md)
 
 ### Rejected
