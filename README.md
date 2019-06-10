@@ -15,5 +15,6 @@ Number | Title
 5 | [Common Cure Rights Commitment](https://github.com/pulp/pups/blob/master/pup-0005.md)
 6 | [Commit bit assignment](https://github.com/pulp/pups/blob/master/pup-0006.md)
 7 | [Two-factor authentication](https://github.com/pulp/pups/blob/master/pup-0007.md)
+8 | [Python Code Style and Tools](https://github.com/pulp/pups/blob/master/pup-0008.md)
 
 ### Rejected
